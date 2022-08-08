@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="primary">#f52c56</color>
+    <color name="accent">#f52c56</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="g_black">#33405f</color>
+    <color name="green">#46CB18</color>
+    <color name="DarkTerraCotta">#DF5365</color>
+    <color name="Moonstone"> #2FA7B4</color>
+    <color name="CeladonBlue">#1182A4</color>
+    <color name="Almond">#F3E3C9</color>
+    <color name="DutchWhite"> #F4D9BC</color>
+    <color name="Alabaster">#F3ECE3</color>
+    <color name="Melon">#F6BCAE</color>
+
+</resources>
