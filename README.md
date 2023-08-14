@@ -37,4 +37,10 @@ Glide : Catch images and load them in imageView.
 
 <img src="https://github.com/Ritesh9828/Food-Receipe/assets/86344806/1a8b2acc-aaec-4cbf-b45f-81bc3fe62684" width=30% height=25%>
 
+<br></br>
+<img src="https://github.com/Ritesh9828/Food-Receipe/assets/86344806/de4afe05-4a36-4c16-bff8-af0929899674" width=30% height=25%>
+<img src="https://github.com/Ritesh9828/Food-Receipe/assets/86344806/81d2b6cd-ccc5-4c4b-aa90-861b838d5380" width=30% height=25%>
+
+
+
 
